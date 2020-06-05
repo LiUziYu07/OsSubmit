@@ -2,7 +2,7 @@ megs:32
 romimage:file=/Users/lzy/opt/bochs/share/bochs/BIOS-bochs-latest
 vgaromimage:file=/Users/lzy/opt/bochs/share/bochs/VGABIOS-lgpl-latest
 #floppya:1_44=freedos.img, status=inserted
-floppya:1_44=p.img, status=inserted
+floppya:1_44=test.img, status=inserted
 #boot:a
 boot:floppy
 log:bochsout.txt
